@@ -1,0 +1,12 @@
+.header-titel{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(9, 139, 96) !important;
+}
+.header-titel:hover{
+    color: black !important;
+}
+.header-item{
+    font-size: 16px;
+    font-weight: 500;
+}

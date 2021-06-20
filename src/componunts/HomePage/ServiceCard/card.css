@@ -1,0 +1,10 @@
+.img{
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.card-items{
+    border-radius: 10px !important;
+    cursor: pointer;
+}

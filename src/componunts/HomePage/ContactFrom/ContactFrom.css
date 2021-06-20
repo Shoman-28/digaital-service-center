@@ -1,0 +1,18 @@
+.massage{
+    width: 500px !important;
+    height: 120px !important;
+    
+}
+.name, .email{
+    width: 500px !important;
+    height: 40px !important;
+    padding: 10px !important;
+    margin-bottom: 10px !important;
+}
+.massage, .email, .name{
+    border-radius: 5px;
+    border: 2px solid gray !important;
+}
+.from-bg{
+    background-color: rgba(156, 146, 146, 0.109);
+}

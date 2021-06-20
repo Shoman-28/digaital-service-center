@@ -1,0 +1,28 @@
+#coustom-footer{
+    background-color: lightslategrey;
+}
+ .google-img, .apple-img{
+    width: 200px;
+    width: 180px;
+
+}
+.google-img, .apple-img:hover{
+    cursor: pointer;
+    
+}
+.coustom-copyright small, .coustom-font h1, .coustom-font h2, .coustom-font h6 {
+    color: #ffffff;
+}
+.custom-icon{
+    color: #fff;
+    font-size: 45px !important;
+}
+.custom-icon :hover{
+    color: #f9b7b7;
+    
+}
+@media screen and (max-width:767px) {
+    .testimonial-comment h3{
+        
+    }
+  }

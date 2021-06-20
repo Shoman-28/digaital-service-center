@@ -1,0 +1,35 @@
+.testimonials-carousel{
+    width: 40%;
+    margin-left: 0;
+    margin-right: 0;
+    
+}
+.testimonials-carousel h4{
+    text-transform: uppercase;
+    
+}
+.testimonial-carousel p{
+
+    text-align: justify;
+}
+
+
+@media screen and (max-width:767px) {
+    .testimonials-carousel{
+        width: 80%;
+        
+        
+    }
+    .testimonials-carousel img{
+        
+        border-radius: 50px !important;
+        width: 100px !important;
+        height: 100px !important;
+        
+    }
+    .userReview-img{
+        
+        
+        
+    }
+  }

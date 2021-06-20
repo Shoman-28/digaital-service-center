@@ -1,0 +1,41 @@
+.ServiceDeatils-bg{
+    position: absolute; 
+    width: 100%;
+    height: 65vh;
+
+    
+}
+.Service-bg{
+    position: relative;
+}
+
+.Service-bg::after{ 
+
+    content: " ";
+    position: absolute;   
+    width: 100%;
+    height: auto;       
+    top: 0px;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    
+    background-color: rgba(7, 3, 3, 0.26);   
+    
+    
+}
+h1, h4, h5, p{
+    padding-bottom: 5px;
+    color: rgb(0, 0, 0);
+}
+.services-containt h5{
+    text-transform: uppercase;
+}
+.service-Details-img{
+    z-index: 2;
+}
+@media only screen and (max-width: 766px) {
+    .service-Details-img {
+      display: none;
+    }
+  }

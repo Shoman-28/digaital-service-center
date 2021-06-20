@@ -1,0 +1,17 @@
+.booking-service{
+   
+}
+.bookingList-heder{
+    padding-top: 13px;
+    padding-left: 30px;
+    width: 100%;
+    height: 5rem;
+    background-color: cornsilk;
+    margin-bottom: 20px;
+    
+    
+}
+.bookingList-heder h3{
+    color: rgb(160, 101, 101);
+    
+}

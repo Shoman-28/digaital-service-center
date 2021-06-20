@@ -1,0 +1,27 @@
+.about-us{
+    
+}
+.about-us img{
+    width: 100%;
+    height: 60vh;
+}
+.about-icon img{
+    padding: 5px;
+    width: 60px;
+    height: 60px;
+    
+}
+.about-heading{
+    color: rgb(9, 139, 96);
+}
+.about-heading h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: rgb(9, 139, 96);
+}
+.about-heading h1{
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(2, 15, 11);
+}
